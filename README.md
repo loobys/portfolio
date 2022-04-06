@@ -1,3 +1,3 @@
 # portfolio
 Hello,
-This is my portfolio
+This is Bryan Joglar's portfolio
